@@ -9,7 +9,9 @@ Desktop: de 992px até 1200px
 TV: acima de 1200px
 */
 
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 700px) {
+
+
     span#burger {
         display: none;
     }
